@@ -1,6 +1,6 @@
 # Fisica para Ingenierias 2
 
-Material de clase 
+Material de clase para el curso de Física para Ingenierias 2 de la Universidad San Francisco de Quito.
 
 ## Usage
 
