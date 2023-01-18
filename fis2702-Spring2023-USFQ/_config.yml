@@ -38,4 +38,4 @@ html:
 
 sphinx:
   config:
-    html_extra_path: ['classes']
+    html_extra_path: ['fis2702-Spring2023-USFQ/classes/']
