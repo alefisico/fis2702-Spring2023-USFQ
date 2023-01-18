@@ -35,7 +35,7 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
-
-sphinx:
-  config:
-    html_extra_path: ['fis2702-Spring2023-USFQ/classes']
+# 
+# sphinx:
+#   config:
+#     html_extra_path: ['fis2702-Spring2023-USFQ/classes']
