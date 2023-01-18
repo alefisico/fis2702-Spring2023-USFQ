@@ -24,7 +24,7 @@ jobs:
         python-version: ${{ matrix.python-version }}
     - name: Install dependencies
       run: |
-        sudo apt-get install pandoc
+        sudo apt-get -y install pandoc
         pip install -r requirements.txt
 
     # Build the book
@@ -37,7 +37,7 @@ jobs:
       run: |
         cd fis2702-Spring2023-USFQ/classes/
         pandoc -s --webtex -i -t slidy -s clase1.md -o test.html --metadata title="Alejandro"
-        cp fis2702-Spring2023-USFQ/classes/*html fis2702-Spring2023-USFQ/_build/html/classes/
+        cp *html ~/fis2702-Spring2023-USFQ/_build/html/classes/
 
     # Deploy the book's HTML to gh-pages branch
     - name: GitHub Pages action

@@ -29,4 +29,4 @@ Este semestre existen tres personas dedicadas a este curso:
 
 ---
 
-Slides de esta clase se encuentran [aqui](test.html) [aca](classes/test.html): 
+Slides de esta clase se encuentran [aqui](test.html) [aca](classes/test.html) [o aca](https://alefisico.github.io/fis2702-Spring2023-USFQ/classes/test.html): 
