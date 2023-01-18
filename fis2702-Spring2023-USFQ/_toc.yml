@@ -3,6 +3,15 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: content
-- file: codeconduct
+parts:
+  - caption: Notas generales
+    chapters:
+    - file: content
+    - file: codeconduct
+  - caption: Clases
+    chapters:
+      - file: classes/clase1.md
+      - file: classes/clase2.md
+      - file: classes/clase3.md
+      - file: classes/clase4.md
+      - file: classes/clase5.md      
