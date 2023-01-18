@@ -20,8 +20,8 @@ Esta pagina contiene las notas y el material de clase para el desarrollo de este
 
 Primero, no te olvides de seguir el [código de convivencia](codeconduct.md).
 
-```{seealso}
-Recuerda que las clases son:
+```{note} Descripción del curso
+Los profesionales de todos los campos de la ingeniería requieren un conocimiento claro de los modelos físicos que describen y permiten comprender en forma completa, detallada y cuantitativa los conceptos de carga y corriente eléctrica, además del campo eléctrico y el campo magnético considerados separadamente y luego en forma conjunta como constituyentes del campo electromagnético y sus aplicaciones. Estos campos describen todos los fenómenos electromagnéticos los cuales constituyen la base física de gran parte de la tecnología moderna.
 ```
 
 ```{tableofcontents}
