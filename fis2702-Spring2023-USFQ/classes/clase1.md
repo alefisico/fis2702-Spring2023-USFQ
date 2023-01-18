@@ -14,4 +14,19 @@ kernelspec:
 ---
 
 
-# Clase 1: Introdución y Campos 
+# Clase 1: Introdución y Campos
+
+Bienvenidos a FIS 2702 - Física para Ingenierías 2
+
+---
+
+## Quienes somos?
+
+Este semestre existen tres personas dedicadas a este curso:
+- *Alejandro* Gómez Espinosa - clase teórica
+- Pablo Ruales - ejercicios
+- Edwin Vasconez Lopez - laboratorios
+
+---
+
+Slides de esta clase se encuentran [aqui](test.html).
