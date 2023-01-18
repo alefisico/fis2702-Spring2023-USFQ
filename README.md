@@ -1,8 +1,8 @@
 # Fisica para Ingenierias 2
 
-Material de clase para el curso de Física para Ingenierias 2 de la Universidad San Francisco de Quito.
+Material de clase para el curso de Física para Ingenierías 2 de la Universidad San Francisco de Quito.
 
-## Usage
+<!-- ## Usage
 
 ### Building the book
 
@@ -28,4 +28,4 @@ We welcome and recognize all contributions. You can see a list of current contri
 
 ## Credits
 
-This project is created using the excellent open source [Jupyter Book project](https://jupyterbook.org/) and the [executablebooks/cookiecutter-jupyter-book template](https://github.com/executablebooks/cookiecutter-jupyter-book).
+This project is created using the excellent open source [Jupyter Book project](https://jupyterbook.org/) and the [executablebooks/cookiecutter-jupyter-book template](https://github.com/executablebooks/cookiecutter-jupyter-book). -->
