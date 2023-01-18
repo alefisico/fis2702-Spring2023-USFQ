@@ -29,4 +29,15 @@ Este semestre existen tres personas dedicadas a este curso:
 
 ---
 
-Slides de esta clase se encuentran [aqui](test.html).
+Slides de esta clase se encuentran aqui:
+```{raw} html
+:file: fis2702-Spring2023-USFQ/classes/test.html
+```
+1
+```{raw} html
+:file: classes/test.html
+```
+2
+```{raw} html
+:file: test.html
+```
