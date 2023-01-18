@@ -1,6 +1,6 @@
 #######################################################################################
 # A default configuration that will be loaded for all jupyter books
-# See the documentation for help and more options: 
+# See the documentation for help and more options:
 # https://jupyterbook.org/customize/config.html
 
 #######################################################################################
@@ -8,7 +8,7 @@
 title                       : Fisica para Ingenierias 2  # The title of the book. Will be placed in the left navbar.
 author                      : Alejandro Gomez Espinosa  # The author of the book
 copyright                   : "2023"  # Copyright year to be placed in the footer
-logo                        : logo.png  # A path to the book logo
+logo                        : https://upload.wikimedia.org/wikipedia/commons/6/60/Magnetic_field_produced_by_an_electric_current_in_a_solenoid.png  # A path to the book logo
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
