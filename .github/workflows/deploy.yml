@@ -36,8 +36,8 @@ jobs:
     - name: Copy html
       run: |
         cd fis2702-Spring2023-USFQ/classes/
-        pandoc -s --webtex -i -t slidy -s clase1.md -o test.html --metadata title="Alejandro"
-        cd - 
+        pandoc -s --webtex -i -t slidy -s clase1.md -o clase1.html
+        cd -
         cp fis2702-Spring2023-USFQ/classes/*html fis2702-Spring2023-USFQ/_build/html/classes/
 
     # Deploy the book's HTML to gh-pages branch
@@ -46,4 +46,3 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: fis2702-Spring2023-USFQ/_build/html
-    
